@@ -4,9 +4,16 @@ stack overflow学？
 java+selenium
 txykd13819040191
 040191
-DHCP服务器：关闭
+DHCP服务器：关
 netsh wlan show drivers
 124.160.154.30
 https://kaifa.baidu.com/
 Apifox = Postman + Swagger + Mock + JMeter
 JDK安装、IDEA破解： https://pan.baidu.com/s/16P9f01hg6g1MyuDddGQMtQ 提取码：6666  
+https://blog.csdn.net/weixin_39739342/article/details/112383622
+https://cloud.fynote.com/share/s/7615
+https://www.bilibili.com/video/BV19K4y1L7MT/?p=87&spm_id_from=pageDriver&vd_source=3b4fa851a583e8f47d8d7c29b1f23cea
+https://www.bilibili.com/video/BV1PE411i7CV/?p=60&spm_id_from=pageDriver&vd_source=3b4fa851a583e8f47d8d7c29b1f23cea
+https://www.baidu.com/s?ie=UTF-8&wd=java%E5%AE%9E%E4%BE%8B%E5%8C%96%E4%B8%8E%E5%88%9D%E5%A7%8B%E5%8C%96
+https://blog.csdn.net/Saintmm/article/details/125596829?ydreferer=aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhaW50bW0vYXJ0aWNsZS9kZXRhaWxzLzEyNTU5NjgyOQ%3D%3D?ydreferer=aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhaW50bW0vYXJ0aWNsZS9kZXRhaWxzLzEyNTU5NjgyOQ%3D%3D
+https://www.mashibing.com/course/1495
